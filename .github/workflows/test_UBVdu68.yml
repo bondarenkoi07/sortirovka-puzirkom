@@ -14,5 +14,5 @@ jobs:
           python -m pip install --upgrade pip
           pip install black[d]
           black .
-          
-          python3 main.py
+          ls
+          python main.py
